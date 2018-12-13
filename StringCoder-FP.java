@@ -6,3 +6,11 @@
      *  The method gives prefernce to return the longer matches.
      */
     private StringPart findPart(String str)
+            for(int i =5; i>=1;i--){
+        String a = str.substring(0, 0 + i);
+        if(masterSrting.indexOf(a)!=-1){
+            int Array [][] = new arr
+        }
+    }
+    
+}

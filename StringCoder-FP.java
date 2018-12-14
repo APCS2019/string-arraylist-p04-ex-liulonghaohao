@@ -9,7 +9,7 @@
             for(int i =5; i>=1;i--){
         String a = str.substring(0, 0 + i);
         if(masterSrting.indexOf(a)!=-1){
-            StringPart a= new StringPart(masterString.indexOf(a),masterString.indexOf(a)+a.length()); 
+            StringPart a= new StringPart(masterString.indexOf(a),a.length()); 
         }
                
     }
